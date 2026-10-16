@@ -136,7 +136,7 @@ Bar charts were created for total marks, grade distribution, pass/fail count, ov
 
 ## 7. Output / Screenshots
 
-> Add your notebook screenshots to a `screenshots/` folder and make sure the file names below match.
+
 
 ### Total Marks of Each Student
 ![Total Marks](screenshots/total_marks.png)
