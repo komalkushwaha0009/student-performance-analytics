@@ -6,7 +6,7 @@
 
 | Detail | Information |
 |---|---|
-| Student Name | KOMAL *(edit if needed)* |
+| Student Name | KOMAL  |
 | Course | Python with AI – EWB Courses |
 | Submission Date | October 2026 |
 
