@@ -2,13 +2,13 @@
 
 ## 1. Project Title
 
-**Project Title:** Student Performance Analytics System (Student Performance Analysis Using Python, Pandas and NumPy)
+**Project Title:** Student Performance Analytics System 
 
 | Detail | Information |
 |---|---|
-| Student Name | KOMAL *(edit if needed)* |
+| Student Name | KOMAL |
 | Course | Python with AI – EWB Courses |
-| Submission Date | October 2026 |
+
 
 ---
 
@@ -225,7 +225,7 @@ The output is presented through printed tables and charts, so it can be understo
 
 ## 10. GitHub Repository
 
-🔗 **Repository Link:** `https://github.com/<your-username>/student-performance-analytics`
+🔗 **Repository Link:** `https://github.com/komalkushwaha0009/student-performance-analytics`
 
 ### Project Structure
 
@@ -242,7 +242,7 @@ student-performance-analytics/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/student-performance-analytics.git
+   git clone https://github.com/komalkushwaha0009/student-performance-analytics.git
    cd student-performance-analytics
    ```
 2. Install the required libraries
