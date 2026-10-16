@@ -138,22 +138,28 @@ Bar charts were created for total marks, grade distribution, pass/fail count, ov
 > Add your notebook screenshots to a `screenshots/` folder and make sure the file names below match.
 
 ### Total Marks of Each Student
-![Total Marks](screenshots/total_marks.png)
+![Total Marks](<img width="1410" height="688" alt="Screenshot 2026-10-16 205956" src="https://github.com/user-attachments/assets/5f407cfb-0c83-44c8-81c4-cb07c10c273c" />
+)
 
 ### Grade Distribution
-![Grade Distribution](screenshots/grade_distribution.png)
+![Grade Distribution](<img width="1017" height="611" alt="Screenshot 2026-10-16 210008" src="https://github.com/user-attachments/assets/f2acf967-94fb-4cc5-b2ae-f9ad815d5728" />
+)
 
 ### Pass vs Fail
-![Pass vs Fail](screenshots/pass_fail.png)
+![Pass vs Fail](<img width="813" height="498" alt="Screenshot 2026-10-16 210018" src="https://github.com/user-attachments/assets/0003e5b6-15b5-429d-8278-a23f67c25cdd" />
+)
 
 ### Overall Student Performance
-![Overall Performance](screenshots/overall_performance.png)
+![Overall Performance](<img width="935" height="572" alt="Screenshot 2026-10-16 210029" src="https://github.com/user-attachments/assets/c254bf35-f134-4a3b-a89c-1a2a60b18c45" />
+)
 
 ### Subject-wise Performance
-![Subject-wise](screenshots/subject_wise.png)
+![Subject-wise](<img width="1392" height="708" alt="Screenshot 2026-10-16 210045" src="https://github.com/user-attachments/assets/7b9a2001-4394-42e9-a586-e96726f3d664" />
+)
 
 ### Top 5 Students
-![Top 5](screenshots/top5.png)
+![Top 5](<img width="1357" height="743" alt="Screenshot 2026-10-16 210105" src="https://github.com/user-attachments/assets/74d6bcc3-84bb-422e-a85e-ddc27c6882c5" />
+)
 
 ### Key Results
 
