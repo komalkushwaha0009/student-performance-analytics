@@ -139,22 +139,22 @@ Bar charts were created for total marks, grade distribution, pass/fail count, ov
 
 
 ### Total Marks of Each Student
-![Total Marks](screenshots/total_marks.png)
+![Total Marks](screenshot/total_marks.png)
 
 ### Grade Distribution
-![Grade Distribution](screenshots/grade_distribution.png)
+![Grade Distribution](screenshot/grade_distribution.png)
 
 ### Pass vs Fail
-![Pass vs Fail](screenshots/pass_fail.png)
+![Pass vs Fail](screenshot/pass_vs_fail.png)
 
 ### Overall Student Performance
-![Overall Performance](screenshots/overall_performance.png)
+![Overall Performance](screenshot/overall_performance.png)
 
 ### Subject-wise Performance
-![Subject-wise](screenshots/subject_wise.png)
+![Subject-wise](screenshot/subject-wise.png)
 
 ### Top 5 Students
-![Top 5](screenshots/top5.png)
+![Top 5](screenshot/top_5.png)
 
 ### Key Results
 
@@ -235,7 +235,7 @@ student-performance-analytics/
 ├── Student_Performance_Analysis.ipynb      # Main project notebook
 ├── student_records_marks_attendance.csv    # Dataset
 ├── README.md                               # Project documentation
-└── screenshots/                            # Output screenshots
+└── screenshot/                            # Output screenshots
 ```
 
 ### How to Run
