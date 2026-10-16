@@ -224,7 +224,7 @@ The output is presented through printed tables and charts, so it can be understo
 
 ## 10. GitHub Repository
 
-🔗 **Repository Link:** `https://github.com/<your-username>/student-performance-analytics`
+🔗 **Repository Link:** `https://github.com/komalkushwaha0009/student-performance-analytics`
 
 ### Project Structure
 
@@ -241,7 +241,7 @@ student-performance-analytics/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/student-performance-analytics.git
+   git clone https://github.com/komalkushwaha0009/student-performance-analytics.git
    cd student-performance-analytics
    ```
 2. Install the required libraries
